@@ -23,3 +23,15 @@ All virtual machines were successfully installed and booted.
 - Ubuntu Server ARM64
 - Windows 11 ARM
 - Kali Linux ARM
+
+## Network Configuration
+
+Network Mode
+
+- NAT
+
+Connectivity
+
+- Ubuntu
+- Windows
+- Kali
