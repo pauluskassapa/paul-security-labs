@@ -7,3 +7,11 @@ Build a personal cybersecurity lab using VMware Fusion on Apple Silicon for Blue
 ## Status
 
 🚧 In Progress
+
+## Environment
+
+### Host
+
+- MacBook Pro M4 Pro
+- macOS
+- VMware Fusion Pro
