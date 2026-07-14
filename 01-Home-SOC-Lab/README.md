@@ -36,3 +36,8 @@ Connectivity
 - Windows
 - Kali
 
+## Lessons Learned
+
+- Learned how to deploy ARM virtual machines on Apple Silicon.
+- Configured NAT networking in VMware Fusion.
+- Prepared the environment for future Blue Team projects.
