@@ -22,3 +22,21 @@ Learn Linux administration fundamentals for IT Infrastructure and Blue Team.
 - [ ] Lesson 8 - Networking
 - [ ] Lesson 9 - SSH
 - [ ] Lesson 10 - Mini Project
+
+---
+
+## Lesson 1 - Terminal Navigation
+
+### Commands Practiced
+
+- pwd
+- ls
+- ls -la
+- cd
+- mkdir
+- touch
+- tree
+
+### Result
+
+Successfully navigated directories and created files using Linux terminal commands.
