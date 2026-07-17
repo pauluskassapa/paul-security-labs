@@ -65,3 +65,16 @@ Successfully copied, renamed, moved, and viewed files using Linux terminal comma
 ### Result
 
 Learned how Linux file permissions affect access control.
+
+## Lesson 4 - Users and Groups
+
+### Commands Practiced
+
+- whoami
+- groups
+- adduser
+- cat /etc/passwd
+
+### Result
+
+Created a new local user and verified account information.
