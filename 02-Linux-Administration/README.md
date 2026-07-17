@@ -54,3 +54,14 @@ Successfully navigated directories and created files using Linux terminal comman
 ### Result
 
 Successfully copied, renamed, moved, and viewed files using Linux terminal commands.
+
+## Lesson 3 - File Permissions
+
+### Commands Practiced
+
+- chmod
+- ls -l
+
+### Result
+
+Learned how Linux file permissions affect access control.
