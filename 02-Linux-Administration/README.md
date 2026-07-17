@@ -40,3 +40,17 @@ Learn Linux administration fundamentals for IT Infrastructure and Blue Team.
 ### Result
 
 Successfully navigated directories and created files using Linux terminal commands.
+
+## Lesson 2 - Files and Directories
+
+### Commands Practiced
+
+- cp
+- mv
+- mkdir
+- cat
+- echo
+
+### Result
+
+Successfully copied, renamed, moved, and viewed files using Linux terminal commands.
