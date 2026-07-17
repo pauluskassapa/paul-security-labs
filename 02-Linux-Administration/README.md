@@ -78,3 +78,17 @@ Learned how Linux file permissions affect access control.
 ### Result
 
 Created a new local user and verified account information.
+
+## Lesson 5 - Package Management
+
+### Commands Practiced
+
+- apt update
+- apt upgrade
+- apt search
+- apt install
+- apt remove
+
+### Result
+
+Successfully updated repositories, installed packages, verified installations, and removed software using APT.
