@@ -120,3 +120,19 @@ Monitored running processes and terminated background tasks using Linux process 
 ### Result
 
 Learned how to manage Linux services and verify SSH server availability.
+
+## Lesson 8 - Linux Networking
+
+### Commands Practiced
+
+- hostname
+- ip addr
+- ip route
+- ping
+- curl
+- wget
+- ss
+
+### Result
+
+Verified network configuration, connectivity, routing, DNS settings, and listening services.
