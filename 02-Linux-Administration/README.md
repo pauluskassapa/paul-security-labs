@@ -92,3 +92,17 @@ Created a new local user and verified account information.
 ### Result
 
 Successfully updated repositories, installed packages, verified installations, and removed software using APT.
+
+## Lesson 6 - Process Management
+
+### Commands Practiced
+
+- ps
+- ps aux
+- top
+- sleep
+- kill
+
+### Result
+
+Monitored running processes and terminated background tasks using Linux process management tools.
