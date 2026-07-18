@@ -136,3 +136,15 @@ Learned how to manage Linux services and verify SSH server availability.
 ### Result
 
 Verified network configuration, connectivity, routing, DNS settings, and listening services.
+
+## Lesson 9 - SSH
+
+### Commands Practiced
+
+- ssh
+- hostname -I
+- last
+
+### Result
+
+Successfully accessed the local system via SSH and verified login history.
