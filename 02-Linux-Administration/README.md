@@ -148,3 +148,17 @@ Verified network configuration, connectivity, routing, DNS settings, and listeni
 ### Result
 
 Successfully accessed the local system via SSH and verified login history.
+
+## Mini Project
+
+### Scenario
+
+Configured a new Linux user for a SOC environment, prepared the workspace, verified SSH service, and confirmed network accessibility.
+
+### Skills Applied
+
+- User Management
+- File Management
+- Permissions
+- Services
+- Networking
