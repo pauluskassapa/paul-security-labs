@@ -106,3 +106,17 @@ Successfully updated repositories, installed packages, verified installations, a
 ### Result
 
 Monitored running processes and terminated background tasks using Linux process management tools.
+
+## Lesson 7 - Services
+
+### Commands Practiced
+
+- systemctl status
+- systemctl restart
+- systemctl enable
+- systemctl list-units
+- ss
+
+### Result
+
+Learned how to manage Linux services and verify SSH server availability.
