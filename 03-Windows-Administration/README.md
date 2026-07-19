@@ -22,3 +22,19 @@ Learn fundamental Windows administration skills for IT Infrastructure and Blue T
 - [ ] Lesson 8 - PowerShell Basics
 - [ ] Lesson 9 - Windows Networking
 - [ ] Lesson 10 - Mini Project
+
+## Lesson 1 - Windows System Information
+
+### Tools Practiced
+
+- msinfo32
+- systeminfo
+- hostname
+- whoami
+- ipconfig
+- Disk Management
+- Task Manager
+
+### Result
+
+Collected system information, verified network configuration, inspected disk layout, and reviewed running processes.
