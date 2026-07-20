@@ -38,3 +38,15 @@ Learn fundamental Windows administration skills for IT Infrastructure and Blue T
 ### Result
 
 Collected system information, verified network configuration, inspected disk layout, and reviewed running processes.
+
+## Lesson 2 - User Management
+
+### Commands Practiced
+
+- whoami
+- net user
+- net localgroup
+
+### Result
+
+Created, managed, enabled, and disabled local user accounts while understanding Windows group memberships.
