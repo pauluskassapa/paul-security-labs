@@ -50,3 +50,22 @@ Collected system information, verified network configuration, inspected disk lay
 ### Result
 
 Created, managed, enabled, and disabled local user accounts while understanding Windows group memberships.
+
+## Lesson 3 - File System & NTFS Permissions
+
+### Tools Practiced
+
+- File Explorer
+- NTFS Security
+- PowerShell
+
+### Commands
+
+- Get-ChildItem
+- New-Item
+- Copy-Item
+- Get-Item
+
+### Result
+
+Created folders and files, explored NTFS permissions, and managed the Windows file system using PowerShell.
