@@ -87,3 +87,18 @@ Created folders and files, explored NTFS permissions, and managed the Windows fi
 ### Result
 
 Learned how to inspect, start, stop, restart, and manage Windows services using both GUI and PowerShell.
+
+## Lesson 5 - Windows Event Viewer
+
+### Tools Practiced
+
+- Event Viewer
+- PowerShell
+
+### Commands
+
+- Get-EventLog
+
+### Result
+
+Explored Windows Event Viewer, filtered system and security logs, searched for Event IDs, and exported logs for analysis.
