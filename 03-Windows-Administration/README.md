@@ -69,3 +69,21 @@ Created, managed, enabled, and disabled local user accounts while understanding 
 ### Result
 
 Created folders and files, explored NTFS permissions, and managed the Windows file system using PowerShell.
+
+## Lesson 4 - Windows Services
+
+### Tools Practiced
+
+- Services Console (services.msc)
+- PowerShell
+
+### Commands
+
+- Get-Service
+- Restart-Service
+- Start-Service
+- Stop-Service
+
+### Result
+
+Learned how to inspect, start, stop, restart, and manage Windows services using both GUI and PowerShell.
