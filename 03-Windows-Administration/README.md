@@ -102,3 +102,19 @@ Learned how to inspect, start, stop, restart, and manage Windows services using 
 ### Result
 
 Explored Windows Event Viewer, filtered system and security logs, searched for Event IDs, and exported logs for analysis.
+
+## Lesson 6 - Task Scheduler
+
+### Tools Practiced
+
+- Task Scheduler
+- PowerShell
+
+### Commands
+
+- Get-ScheduledTask
+- Start-ScheduledTask
+
+### Result
+
+Created, executed, monitored, and managed scheduled tasks using both the graphical interface and PowerShell.
