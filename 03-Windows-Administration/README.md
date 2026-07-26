@@ -136,3 +136,23 @@ Created, executed, monitored, and managed scheduled tasks using both the graphic
 ### Result
 
 Explored Windows Defender Firewall profiles, created firewall rules, and managed them using PowerShell.
+
+## Lesson 8 - PowerShell Fundamentals
+
+### Tools Practiced
+
+- Windows PowerShell
+
+### Commands
+
+- Get-Command
+- Get-Help
+- Get-Service
+- Get-Process
+- Get-NetIPAddress
+- Get-ComputerInfo
+- Get-ExecutionPolicy
+
+### Result
+
+Learned PowerShell fundamentals, explored system information, created a simple script, and exported command output to a file.
