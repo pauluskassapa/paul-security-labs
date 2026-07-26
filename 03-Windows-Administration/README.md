@@ -118,3 +118,21 @@ Explored Windows Event Viewer, filtered system and security logs, searched for E
 ### Result
 
 Created, executed, monitored, and managed scheduled tasks using both the graphical interface and PowerShell.
+
+## Lesson 7 - Windows Firewall
+
+### Tools Practiced
+
+- Windows Defender Firewall
+- PowerShell
+
+### Commands
+
+- Get-NetFirewallProfile
+- Get-NetFirewallRule
+- Enable-NetFirewallRule
+- Disable-NetFirewallRule
+
+### Result
+
+Explored Windows Defender Firewall profiles, created firewall rules, and managed them using PowerShell.
