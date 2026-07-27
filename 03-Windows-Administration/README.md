@@ -179,3 +179,26 @@ Learned PowerShell fundamentals, explored system information, created a simple s
 
 Learned how to inspect network configuration, troubleshoot connectivity, identify active connections, and analyse network activity using Windows networking tools.
 
+## Mini Project - Windows System Assessment
+
+### Objective
+
+Perform a complete Windows administrative assessment using built-in Windows tools.
+
+### Skills Demonstrated
+
+- Windows Administration
+- User Management
+- Event Viewer
+- Windows Services
+- Firewall Management
+- Scheduled Tasks
+- Windows Networking
+- PowerShell Scripting
+
+### Deliverables
+
+- Assessment Report
+- PowerShell Inventory Script
+- Screenshots
+
