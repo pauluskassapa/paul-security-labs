@@ -156,3 +156,26 @@ Explored Windows Defender Firewall profiles, created firewall rules, and managed
 ### Result
 
 Learned PowerShell fundamentals, explored system information, created a simple script, and exported command output to a file.
+
+## Lesson 9 - Windows Networking
+
+### Tools Practiced
+
+- Command Prompt
+- Windows PowerShell
+
+### Commands
+
+- ipconfig
+- ping
+- tracert
+- nslookup
+- netstat
+- Get-NetTCPConnection
+- Get-NetAdapter
+- Test-NetConnection
+
+### Result
+
+Learned how to inspect network configuration, troubleshoot connectivity, identify active connections, and analyse network activity using Windows networking tools.
+
