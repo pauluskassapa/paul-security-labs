@@ -25,3 +25,27 @@ Build a strong foundation in computer networking for IT Infrastructure and Blue 
 - VMware Fusion Pro
 - Wireshark
 - PowerShell
+
+## Lesson 1 - Network Basics
+
+### Topics
+
+- Network Fundamentals
+- LAN
+- WAN
+- Internet
+- Router
+- Switch
+- Modem
+- Access Point
+
+### Hands-on
+
+- Checked IP configuration
+- Identified default gateway
+- Performed DNS lookup
+- Identified public IP address
+
+### Result
+
+Learned the basic concepts of computer networking and how devices communicate through local networks and the Internet.
