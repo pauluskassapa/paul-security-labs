@@ -112,3 +112,29 @@ Learned the TCP/IP model, the differences between TCP and UDP, common network po
 ### Result
 
 Learned how to inspect active TCP connections, identify listening services, and associate network activity with running processes using TCPView.
+
+## Lesson 5 - DNS Investigation
+
+### Topics
+
+- DNS Resolution
+- DNS Query
+- DNS Response
+- A Record
+- AAAA Record
+
+### Tool
+
+- Wireshark
+
+### Hands-on
+
+- Captured DNS traffic
+- Filtered DNS packets
+- Inspected DNS query and response
+- Identified A and AAAA records
+- Saved packet capture for analysis
+
+### Result
+
+Learned how DNS resolves domain names into IP addresses and how to inspect DNS traffic using Wireshark.
