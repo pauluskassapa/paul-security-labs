@@ -49,3 +49,23 @@ Build a strong foundation in computer networking for IT Infrastructure and Blue 
 ### Result
 
 Learned the basic concepts of computer networking and how devices communicate through local networks and the Internet.
+
+## Lesson 2 - OSI Model
+
+### Topics
+
+- OSI 7 Layer Model
+- Layer Functions
+- Common Protocols
+- Real-world Networking
+
+### Hands-on
+
+- Checked IP configuration
+- DNS lookup
+- Ping test
+- Traceroute
+
+### Result
+
+Learned how the OSI model explains data communication and related networking tools to different layers.
