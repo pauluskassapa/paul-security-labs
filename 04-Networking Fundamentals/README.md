@@ -88,3 +88,27 @@ Learned how the OSI model explains data communication and related networking too
 ### Result
 
 Learned the TCP/IP model, the differences between TCP and UDP, common network ports, and how to inspect network connections in Windows.
+
+## Lesson 4 - TCP Connections & Ports
+
+### Topics
+
+- TCP Connections
+- Common Ports
+- TCP States
+- TCPView
+
+### Tool
+
+- TCPView (Microsoft Sysinternals)
+
+### Hands-on
+
+- Explored active TCP connections
+- Identified processes using network connections
+- Investigated listening ports
+- Analyzed HTTPS connections on port 443
+
+### Result
+
+Learned how to inspect active TCP connections, identify listening services, and associate network activity with running processes using TCPView.
