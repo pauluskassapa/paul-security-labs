@@ -68,4 +68,23 @@ Learned the basic concepts of computer networking and how devices communicate th
 
 ### Result
 
-Learned how the OSI model explains data communication and related networking tools to different layers.
+Learned how the OSI model explains data communication and related networking tools to different layers.\
+
+## Lesson 3 - TCP/IP Model
+
+### Topics
+
+- TCP/IP Model
+- TCP vs UDP
+- IPv4 & IPv6
+- Common Ports
+
+### Hands-on
+
+- Checked IPv4 and IPv6 configuration
+- Tested TCP connectivity
+- Identified active ports using netstat
+
+### Result
+
+Learned the TCP/IP model, the differences between TCP and UDP, common network ports, and how to inspect network connections in Windows.
